@@ -1,0 +1,12 @@
+{
+  "name": "node-watermark",
+  "version": "1.0.0",
+  "description": "Add watermark to an image",
+  "main": "app.js",
+  "license": "MIT",
+  "author": "Walek",
+  "dependencies": {
+    "inquirer": "6.5.0",
+    "jimp": "0.6.4"
+  }
+}
